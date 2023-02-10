@@ -75,10 +75,9 @@ Project Management:
 Product Management:
 - Laureen Kattan (Coforma)
 Design & Research:
-- Carolyn Williams (Coforma)
+- Scott Postma (Coforma)
 Engineering:
 - Talia Hicks, Technical Lead (Coforma)
-- Autumn Summers (Coforma)
 - Michael Scott (Coforma)
 - Dale Durham (Coforma)
 - Pratap Singh (Coforma)
